@@ -15,6 +15,8 @@ The gamer will continue until a winning combination of four is reached by player
 
 ### Technical Challenges
 
+
+
 ### Wireframe
 ![](./assets/wireframe.jpg)
 
