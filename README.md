@@ -24,9 +24,9 @@ The gamer will continue until a winning combination of four is reached by player
 
 ### Timeline 
 
-Tuesday: Build Wireframe & Game Logic
-Wednesday : Focus on Game logic & possible functions
-Thursday: Build Grid
-Friday: Build JS Functionality
-Saturday: Style the game
-Sunday
+- Tuesday: Build Wireframe & Game Logic
+- Wednesday : Focus on Game logic & possible functions
+- Thursday: Build Grid
+- Friday: Build JS Functionality
+- Saturday: Style the game
+- Sunday: Debug/Review
